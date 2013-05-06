@@ -1,0 +1,69 @@
+= Architecture Documentation "Here goes your system name" 
+:Author:    Markus Schärtel
+:Email:     markus@schaertel.de
+:Date:      2013-04-28
+:Revision:  v1.0
+:toc:
+footnote:[Template Revision: 6.1 EN June 2012]
+
+[[TOC]]
+
+.Acknowledgement
+****
+We acknowledge that this document uses material from the arc 42 architecture template, http://www.arc42.de[http://www.arc42.de]. 
+Created by Dr. Peter Hruschka & Dr. Gernot Starke.
+The ad template was created and provided by Markus Schärtel footnote:[Written entirely with http:/vim.org/[vim]]
+
+****
+
+.Revision History
+[options="header", cols="1,1,2,2"]
+|====
+| Version | Date | Reviser | Description
+| 0.9 | 13.04.2013 | Markus Schärtel | Initial Version 
+| 0.9.1| 20.04.2013 | Markus Schärtel | Corrected linebreaks and added SNIPs 
+|====
+
+
+.Related Documents
+[options="header", cols="1,2"]
+|====
+| Document | Description 
+| | 
+|====
+
+<<<<
+include::sections/01_introduction_and_goals.ad[]
+
+<<<<
+include::sections/02_architecture_constraints.ad[]
+
+<<<<
+include::sections/03_system_scope_and_context.ad[]
+
+<<<<
+include::sections/04_solution_strategy.ad[]
+
+<<<<
+include::sections/05_building_block_view.ad[]
+
+<<<<
+include::sections/06_runtime_view.ad[]
+
+<<<<
+include::sections/07_deployment_view.ad[]
+
+<<<<
+include::sections/08_concepts.ad[]
+
+<<<<
+include::sections/09_design_decisions.ad[]
+
+<<<<
+include::sections/10_quality_scenarios.ad[]
+
+<<<<
+include::sections/11_technical_risks.ad[]
+
+<<<<
+include::sections/12_glossary.ad[]
