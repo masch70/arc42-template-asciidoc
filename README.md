@@ -9,6 +9,6 @@ Some sample calls can be found in the doit.sh shell script which should provide 
 
 I assume that for those of you who are interested in this template, plain text writing is a key driver and [Vim](http://vim.org/)
 is one of your favourite tools. I recommend using the [asciidoc-vim](https://github.com/dagwieers/asciidoc-vim) and
-[Control-P](https://github.com/kien/ctrlp.vim) plugins/syntax files which make working with the asciidoc files a breeze.
+[Control-P](https://github.com/kien/ctrlp.vim) plugins/syntax files which make working with the asciidoc files a breeze...
 
 
